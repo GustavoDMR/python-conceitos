@@ -5,7 +5,6 @@ Exercicios da seção 7 do curso pt1
 '''
 
 
-
 '''
 
 # exercicio 1
